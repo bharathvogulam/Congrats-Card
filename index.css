@@ -1,0 +1,29 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.bg-card {
+  padding: 20px;
+  background-color: #cffafe;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile {
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+}
+
+.watch {
+  height: 50px;
+  width: 50px;
+}
